@@ -24,7 +24,11 @@ P/S: I implemented a simple demo with  MOE- PEFT and BitNet to prove the ideas (
 
 
 [1] Scaling Laws for Neural Language Models  https://arxiv.org/pdf/2001.08361.pdf]
+
 [2] Mixture-of-LoRAs : https://arxiv.org/pdf/2403.03432.pdf
+
 [3] MOE https://github.com/mistralai/mistral-src
+
 [4] Orca https://arxiv.org/pdf/2306.02707.pdf
+
 [5] BitNet158: https://www.linkedin.com/pulse/1bit-llm-small-still-large-bitnet158-gurneet-singh-tj3tc/
